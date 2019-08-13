@@ -1,0 +1,3 @@
+# WheelsBot
+Proyecto sencillo para automatizar la busqueda de wheels...
+La idea es la implementacion con python a traves de SeleniumWebDriver
